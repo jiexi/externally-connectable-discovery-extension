@@ -1,0 +1,21 @@
+{
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "externally_connectable": {
+    "ids": [ "*"],
+    "matches": [
+      "file://*/*",
+      "http://*/*",
+      "https://*/*"
+    ]
+  },
+  "description": "wallet externally_connectable discovery example",
+  "icons": {},
+  "manifest_version": 2,
+  "name": "wallet externally_connectable Discovery Example",
+  "permissions": [],
+  "short_name": "wallet_ecde",
+  "version": "0.1"
+}

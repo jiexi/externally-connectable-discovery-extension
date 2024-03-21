@@ -1,0 +1,21 @@
+{
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "externally_connectable": {
+    "ids": [ "*"],
+    "matches": [
+      "file://*/*",
+      "http://*/*",
+      "https://*/*"
+    ]
+  },
+  "description": "hub externally_connectable discovery example",
+  "icons": {},
+  "manifest_version": 2,
+  "name": "Hub externally_connectable Discovery Example",
+  "permissions": [],
+  "short_name": "hub_ecde",
+  "version": "0.1"
+}

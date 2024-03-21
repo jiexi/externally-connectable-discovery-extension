@@ -1,4 +1,4 @@
-# iframe-discovery-example-example
+# externally-connectable-discovery-example
 
 Example Chrome extension that establishes a pattern for extension discovery via externally_connectable
 
